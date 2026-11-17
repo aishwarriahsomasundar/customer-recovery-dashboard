@@ -22,12 +22,14 @@ In this review, searching only the Data loss subject would have missed three of 
 
 Complaint Trends. Select a ticket status to see the count by ticket type. With Open selected, technical issue is the largest category, with 602 tickets.
 
-<img width="293" height="236" alt="image" src="https://github.com/user-attachments/assets/f1b9297a-382e-45ab-8551-914a79994af6" />
+<img width="447" height="319" alt="image" src="https://github.com/user-attachments/assets/c173fa17-8c07-4561-bce8-817f6f5b74fd" />
+
 
 
 Action Queue. Use the ticket ID to locate each of the five flagged cases. The review decision explains why it was selected for follow-up.
 
-<img width="206" height="120" alt="image" src="https://github.com/user-attachments/assets/367125ac-d61f-4d9a-9ce9-c774dee62472" />
+<img width="504" height="287" alt="image" src="https://github.com/user-attachments/assets/ded319be-461f-4a69-9e77-ebd447b915fb" />
+
 
 
 ## WHAT I WOULD DO NEXT
